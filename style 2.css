@@ -1,0 +1,35 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: navy;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.hamza {
+    color: orange;
+}
+
+.flexible-container {
+    display: flex;
+    margin: top 100px;
+}
+
+.half-width {
+    padding-left: 2%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
